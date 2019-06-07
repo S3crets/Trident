@@ -2,8 +2,7 @@ import discord
 import asyncio
 client = discord.Client()
 from discord import Game
-import discord.ext import commands
-from discord.ext.commands import bot
+
 
 
       
